@@ -1,0 +1,19 @@
+{
+  "name": "Plug.dj-Bot",
+  "version": "0.1.0",
+  "author": "Exuviax <Contact@exudev.ca>",
+  "description": "Exubot - The friendly plug.dj Connection bot",
+  "main": "./run.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "twitch-irc": "^1.1.0",
+    "plugapi": "^3.1.0",
+    "extend": "^2.0.0",
+    "js-yaml": "^3.2.5",
+    "request": "^2.51.0",
+    "twitch-irc": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
